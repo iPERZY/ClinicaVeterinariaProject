@@ -1,0 +1,2 @@
+# ClinicaVeterinariaProject
+ .clinica
